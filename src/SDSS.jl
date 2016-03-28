@@ -1,5 +1,6 @@
 module SDSS
 
-# package code goes here
+include("io.jl")
+include("db.jl")
 
 end # module
